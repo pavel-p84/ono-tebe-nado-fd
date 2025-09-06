@@ -1,4 +1,5 @@
 .header {
+  font-family: Raleway, sans-serif;
   font-weight: 400;
   font-size: 18px;
   font-style: normal;
@@ -55,6 +56,7 @@
 }
 
 .description {
+  font-family: Raleway, sans-serif;
   font-weight: 300;
   font-size: 22px;
   font-style: normal;
@@ -69,6 +71,7 @@
 }
 
 h1 {
+  font-family: Raleway, sans-serif;
   font-weight: 700;
   font-size: 100px;
   font-style: bold;
@@ -78,9 +81,10 @@ h1 {
 }
 
 h2 {
+  font-family: Raleway, sans-serif;
   font-weight: 700;
   font-size: 40px;
-  font-style: normal;
+  font-style: bold;
   line-height: 47px;
   text-transform: uppercase;
   color: #000000;
@@ -132,6 +136,7 @@ h2 {
 }
 
 .cards {
+  font-family: Raleway, sans-serif;
   text-align: center;
   list-style-type: none;
   display: grid;
@@ -153,6 +158,7 @@ h2 {
 }
 
 .lot-content {
+  font-family: Raleway, sans-serif;
   text-align: left;
   position: relative;
   display: flex;
@@ -162,6 +168,7 @@ h2 {
 }
 
 .lot-content a {
+  font-family: Raleway, sans-serif;
   font-weight: 700;
   font-size: 22px;
   font-style: normal;
@@ -172,6 +179,7 @@ h2 {
 }
 
 .lot-content p {
+  font-family: Raleway, sans-serif;
   font-weight: 400;
   font-size: 20px;
   font-style: normal;
@@ -180,6 +188,7 @@ h2 {
 }
 
 .lot-other-link {
+  font-family: Raleway, sans-serif;
   font-weight: 400;
   font-size: 20px;
   font-style: normal;
@@ -217,6 +226,7 @@ h2 {
 }
 
 .about-text {
+  font-family: Raleway, sans-serif;
   font-weight: 400;
   font-size: 20px;
   font-style: normal;
@@ -230,6 +240,7 @@ h2 {
 }
 
 .footer {
+  font-family: Raleway, sans-serif;
   font-weight: 400;
   font-size: 18px;
   font-style: normal;
@@ -247,6 +258,7 @@ h2 {
 }
 
 .nav-footer {
+  font-family: Raleway, sans-serif;
   text-align: center;
   display: flex;
   flex-direction: column;
